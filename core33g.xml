@@ -15,9 +15,9 @@
 <manifest>
 	<project path="external/stlport" name="CyanogenMod/android_external_stlport" remote="github" revision="cm-13.0"/>
 	<project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-13.0"/>
-	<project path="kernel/samsung/core33g" name="kill3rpenguin/android_kernel_samsung_core33g" remote="github" revision="cm-13.0"/>
+	<project path="kernel/samsung/core33g" name="kill3rpenguin/android_kernel_samsung_core33g" remote="github" revision="master"/>
 	<project path="device/samsung/core33g" name="kill3rpenguin/android_device_samsung_core33g" remote="github" revision="cm-13.0"/>
-	<project path="vendor/samsung/core33g" name="koquantam/android_vendor_samsung_core33g" remote="github" revision="cm-13.0"/>
-	<project path="hardware/samsung/sprd-common" name="kill3rpenguin/android_hardware_samsung_sprd-common" remote="github" revision="cm-13.0"/>
-	<project path="device/samsung/sprd-common" name="ngoquang2708/android_device_samsung_sprd-common" remote="github" revision="cm-13.0"/>
+	<project path="vendor/samsung/core33g" name="kill3rpenguin/android_vendor_samsung_core33g" remote="github" revision="cm-13.0"/>
+	<project path="hardware/sprd" name="kill3rpenguin/android_hardware_sprd" remote="github" revision="cm-13.0"/>
+	<project path="device/samsung/sprd-common" name="kill3rpenguin/android_device_samsung_sprd-common" remote="github" revision="cm-13.0"/>
 </manifest>
