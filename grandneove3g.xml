@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <manifest>
-	<project path="device/samsung/core33g" name="hash07/android_device_samsung_core33g" remote="github" revision="cm-14.1"/>
-	<project path="kernel/samsung/core33g" name="hash07/android_kernel_samsung_core33g" remote="github" revision="lineage-14.1"/>
-	<project path="vendor/samsung/core33g" name="hash07/android_vendor_samsung_core33g" remote="github" revision="cm-14.1"/>
+	<project path="device/samsung/grandneove3g" name="hash07/android_device_samsung_grandneove3g" remote="github" revision="cm-14.1"/>
+	<project path="kernel/samsung/grandneove3g" name="hash07/android_kernel_samsung_grandneove3g" remote="github" revision="cm-14.1"/>
+	<project path="vendor/samsung/grandneove3g" name="hash07/android_vendor_samsung_grandneove3g" remote="github" revision="cm-14.1"/>
 </manifest>
