@@ -20,8 +20,8 @@
 	<project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" remote="github" revision="cm-14.1"/>
 	<project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" remote="github" revision="cm-14.1"/>
 	<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1"/>
-	<project path="device/samsung/ms013g" name="hash07/android_device_samsung_ms103g" remote="github" revision="lineage-14.1"/>
+	<project path="device/samsung/ms013g" name="hash07/android_device_samsung_ms013g" remote="github" revision="lineage-14.1"/>
 	<project path="device/samsung/msm8226-common" name="hash07/android_device_samsung_msm8226-common" remote="github" revision="lineage-14.1"/>
-	<project path="kernel/samsung/ms013g" name="hash07/android_kernel_samsung_ms103g" remote="github" revision="lineage-14.1"/>
-	<project path="vendor/samsung/ms103g" name="hash07/android_vendor_samsung_ms103g" remote="github" revision="lineage-14.1"/>
+	<project path="kernel/samsung/ms013g" name="hash07/android_kernel_samsung_ms013g" remote="github" revision="lineage-14.1"/>
+	<project path="vendor/samsung/ms013g" name="hash07/android_vendor_samsung_ms013g" remote="github" revision="lineage-14.1"/>
 </manifest>
