@@ -22,8 +22,8 @@
 	<project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" remote="github" revision="cm-14.1"/>
 	<project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1"/>
 	<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1"/>
-	<project path="device/samsung/ms013g" name="S3NEO/android_device_samsung_ms013g" remote="github" revision="master"/>
-	<project path="device/samsung/msm8226-common" name="S3NEO/android_device_samsung_msm8226-common" remote="github" revision="ms013g"/>
+	<project path="device/samsung/ms013g" name="Sudeep10/android_device_samsung_ms013g" remote="github" revision="master"/>
+	<project path="device/samsung/msm8226-common" name="Sudeep10/android_device_samsung_msm8226-common" remote="github" revision="ms013g"/>
 	<project path="kernel/samsung/ms013g" name="Sudeep10/android_kernel_samsung_ms013g" remote="github" revision="lineage-14.1"/>
 	<project path="vendor/samsung/ms013g" name="Sudeep10/android_vendor_samsung_ms013g" remote="github" revision="lineage-14.1"/>
 </manifest>
